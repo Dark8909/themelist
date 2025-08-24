@@ -1,0 +1,50 @@
+/**
+ * @name csj
+ * @author Gibbu
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://images.hdqwalls.com/wallpapers/cute-animals-dancing-in-space-uu.jpg');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 3px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.74;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.62;
+  --right-brightness: 0.2;
+  --overlay-brightness: 0.24;
+  --gradient-primary: 90,17,218;
+  --gradient-secondary: 48,48,48;
+  --link-colour: #053648;
+  --scrollbar-colour: rgb(102,59,59,0.05);
+  --gradient-direction: 9deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
