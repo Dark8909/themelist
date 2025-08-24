@@ -8,40 +8,44 @@
  * @BDEditor Frosted Glass
 */
 
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Light+300+Italic:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/FrostedGlass.css');
-@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
   --background-image: url('https://images.hdqwalls.com/wallpapers/cute-animals-dancing-in-space-uu.jpg');
-  --background-image-blur: 3px;
+  --background-image-blur: 2px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: var(--background-image);
-  --popout-image-blur: 5px;
+  --popout-image-blur: 2px;
   --popout-image-size: cover;
   --popout-image-position: center;
   --overlay-image: var(--background-image);
   --overlay-image-blur: 3px;
   --overlay-image-size: cover;
-  --overlay-image-position: center;
+  --overlay-image-position: top center;
   --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0.74;
-  --left-brightness: 0.8;
+  --serverlist-brightness: 0.66;
+  --left-brightness: 0.6;
   --middle-brightness: 0.62;
-  --right-brightness: 0.2;
-  --overlay-brightness: 0.24;
+  --right-brightness: 0.02;
+  --overlay-brightness: 0.12;
   --gradient-primary: 90,17,218;
   --gradient-secondary: 48,48,48;
   --link-colour: #053648;
   --scrollbar-colour: rgb(102,59,59,0.05);
-  --gradient-direction: 9deg;
+  --gradient-direction: 16deg;
   --tint-colour: 0,0,0;
-  --tint-brightness: 0;
-  --font: gg sans;
-  --window-padding: 20px;
-  --window-roundness: 10px;
+  --tint-brightness: 0.08;
+  --font: Light 300 Italic;
+  --window-padding: 9px;
+  --window-roundness: 23px;
   --update-notice-1: none;
 }
 
