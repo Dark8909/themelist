@@ -54,3 +54,59 @@
 /* Any custom CSS below here */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Delius:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/FrostedGlass.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/RadialStatus.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://github.com/Dark8909/themelist/blob/main/wp1.jpg?raw=true');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: top left;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 2px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 3px;
+  --overlay-image-size: cover;
+  --overlay-image-position: top center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --overlay-brightness: 0.36;
+  --gradient-primary: 63,81,181;
+  --gradient-secondary: 38,38,38;
+  --link-colour: #4F0050;
+  --scrollbar-colour: rgb(0,0,0,0.23);
+  --gradient-direction: 0deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0.04;
+  --font: Delius;
+  --window-padding: 0px;
+  --window-roundness: 1px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
