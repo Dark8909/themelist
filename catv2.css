@@ -28,7 +28,7 @@
   --home-button-image: url('https://4kwallpapers.com/images/wallpapers/kitten-cat-butterflies-black-background-glowing-3840x2160-4495.jpg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0;
+!important  --serverlist-brightness: 0;
   --left-brightness: 0;
   --middle-brightness: 0.14;
   --right-brightness: 0;
